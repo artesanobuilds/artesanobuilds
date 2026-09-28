@@ -10,7 +10,7 @@ These days I focus on:
 - Evaluations, guardrails, and reliable production systems.
 - Software development with coding agents and the teams and practices that support it.
 
-[Visit Artesano →](https://artesano.build/)
+[Artesano](https://artesano.build/) · [LinkedIn](https://www.linkedin.com/in/miguelalvarado) · [X / Twitter](https://x.com/djmalvarado)
 
 ## Earlier GitHub work
 
